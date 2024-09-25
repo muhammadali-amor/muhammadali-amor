@@ -29,8 +29,8 @@
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,postgres,kali,javascript,github" /><br>
-    <img src="https://skillicons.dev/icons?i=react,vite,bootstrap,html,css,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,postgres,kali,javascript,github,react,vite,bootstrap,html,css,vscode" /><br>
+<!--     <img src="https://skillicons.dev/icons?i=" /> -->
 </div>
 
 <hr/>
